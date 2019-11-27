@@ -1,6 +1,6 @@
-
+[![Build Status](https://dev.azure.com/listleonid/CoalMemory/_apis/build/status/leonidlist.CoalMemory?branchName=master)](https://dev.azure.com/listleonid/CoalMemory/_build/latest?definitionId=3&branchName=master)
 # CoalMemory
-**Simple library to interact with memory (read or write). Actually it's just a wrap on ReadProcessMemory and WriteProcessMemory.**
+**A simple library to interact with memory (read or write). Actually it's just a wrap on ReadProcessMemory and WriteProcessMemory.**
 
 ## Public members:
 > **Get current process (property)**
